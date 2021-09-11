@@ -10,7 +10,7 @@ JupyterLab使うための環境構築
 # jupyterlab-nlp
 
 JupyterLab使うための環境構築 ＋ 日本語NLP関連のライブラリ
-- jupyterlabの拡張
+- [jupyterlab](https://github.com/ryuryukke/my_envs/tree/master/jupyterlab)の拡張
 - python:3.8 + some libraries for EDA + some libraries for NLP
 
 # QuickStart
