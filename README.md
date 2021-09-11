@@ -5,8 +5,13 @@ Dockerfileで環境構築
 
 # jupyterlab
 JupyterLab使うための環境構築
+- python:3.8 + some libraries for EDA
+
 # jupyterlab-nlp
+
 JupyterLab使うための環境構築 ＋ 日本語NLP関連のライブラリ
+- jupyterlabの拡張
+- python:3.8 + some libraries for EDA + some libraries for NLP
 
 # QuickStart
 ## jupyterlab
